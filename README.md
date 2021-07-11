@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋 I'm John
+
+### Now
+
+* Software engineering at Amazon, developing [financial data applications](https://amazon.jobs/en/teams/financial-intelligence-systems) for selling partners
+* Working on my [data science masters degree](https://scholar.harvard.edu/itsjohnward) at Harvard
 
 <!--
 **itsjohnward/itsjohnward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
