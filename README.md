@@ -1,9 +1,8 @@
 ### Hi 👋 I'm John
 
-### Now
+I'm interested in technology that assists in making better decisions.
 
-* Software engineering at Amazon, developing [financial data applications](https://amazon.jobs/en/teams/financial-intelligence-systems) for selling partners
-* Working on my [data science masters degree](https://scholar.harvard.edu/itsjohnward) at Harvard
+I'm currently working at Facebook as a senior software engineer while also studying for my [masters](https://scholar.harvard.edu/itsjohnward) in Data Science at Harvard.
 
 <!--
 **itsjohnward/itsjohnward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
