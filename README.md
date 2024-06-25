@@ -1,8 +1,8 @@
 ### Hi 👋 I'm John
 
-I'm making Augmented Reality happen at [Meta](https://about.meta.com/metaverse/). I'm also studying part-time for my [masters](https://scholar.harvard.edu/itsjohnward) in Data Science at Harvard.
+I'm making Augmented Reality happen at [Meta](https://about.meta.com/metaverse/).
 
-Previously, my work in [Amazon's Profit Intelligence org](https://www.amazon.jobs/en/teams/financial-intelligence-systems) and at [Gro Intelligence](https://gro-intelligence.com/) focused on using ML and data visualization to make better business decisions.
+Previously, my work at [Amazon](https://www.amazon.jobs/en/teams/financial-intelligence-systems) and at [Gro Intelligence](https://gro-intelligence.com/) focused on using AI/ML to make global supply chains more robust. I studied Computer Science and Game Engineering at New York University and AI and Data Science at Harvard University.
 
 <!--
 **itsjohnward/itsjohnward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
